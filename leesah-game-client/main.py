@@ -12,9 +12,9 @@ from client_lib.config import HOSTED_KAFKA
 
 # Config ##########################################################################################################
 
-TEAM_NAME = "CHANGE ME"
-HEX_CODE = "CHANGE ME"
-QUIZ_TOPIC = "CHANGE ME"
+TEAM_NAME = "Suiiii"
+HEX_CODE = "#3368FF"
+QUIZ_TOPIC = "leesah-quiz-oslomet-1"
 CONSUMER_GROUP_ID = f"cg-leesah-team-${TEAM_NAME}-1"
 
 
